@@ -37,8 +37,20 @@ header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* End Of Header*/
+
+
 
 /* Body of the Home Page*/
+
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
 
 a {
     color: #ffffff;
@@ -52,16 +64,6 @@ p {
 
 body {
     background-color: #d9dcd6;
-}
-
-
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
 }
 
 
@@ -193,6 +195,8 @@ body {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Footer of the Page*/
 
 .footer {
     padding: 30px;
