@@ -11,4 +11,3 @@ This is a Website for Horiseon company to inform on the importance of online mar
 First Link: https://nathanroses.github.io/horiseon-main/
 Second Link: https://github.com/nathanroses/horiseon-main.git
 
-# 
