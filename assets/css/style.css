@@ -4,6 +4,8 @@
     margin: 0;
 }
 
+
+
 /* Header and Navigation of Home Page*/
 header {
     padding: 20px;
@@ -150,6 +152,10 @@ p {
 }
 /* End of  Right Side Menu*/
 
+
+
+/* Main Content */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -203,6 +209,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* End of Main Content*/
+/* End of Body */
 
 
 /* Footer */  
