@@ -40,8 +40,7 @@ header div ul li {
 /* End Of Header*/
 
 
-
-/* Body of the Home Page*/
+/* Background Image*/
 
 .hero {
     height: 800px;
@@ -51,6 +50,13 @@ header div ul li {
     background-size: cover;
     background-position: center;
 }
+
+/* End Background Image*/
+
+
+
+/* Body of the Home Page*/
+
 
 a {
     color: #ffffff;
@@ -196,7 +202,8 @@ body {
     font-size: 36px;
 }
 
-/* Footer of the Page*/
+
+/* Footer */  
 
 .footer {
     padding: 30px;
@@ -208,3 +215,5 @@ body {
 .footer h2 {
     font-size: 20px;
 }
+
+/* End of Footer */
