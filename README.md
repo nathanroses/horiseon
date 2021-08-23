@@ -8,4 +8,7 @@ This is a Website for Horiseon company to inform on the importance of online mar
 *CSS
 
 ## Website
-https://nathanroses.github.io/horiseon-main/
+First Link: https://nathanroses.github.io/horiseon-main/
+Second Link: https://github.com/nathanroses/horiseon-main.git
+
+# 
